@@ -36,7 +36,6 @@ logdelete(fname)
 
 ## Math :
 
-math.slope(x2, y2, x1, y2)
 
 // returns the calculation of the slope of a set of coordinates
 
