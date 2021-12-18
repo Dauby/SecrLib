@@ -36,6 +36,7 @@ logdelete(fname)
 
 ## Math :
 
+math.slope(x1, y1, x2, y2
 
 // returns the calculation of the slope of a set of coordinates
 
